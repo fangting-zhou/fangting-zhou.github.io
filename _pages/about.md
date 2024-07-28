@@ -15,8 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a postdoctoral associate in the Department of Biostatistics at Yale University, working with [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/). Previously, I completed my PhD in Statistics at Texas A&M University and Renmin University of China, advised by [Dr. Yang Ni](https://nystat.github.io/yni/) and [Dr. Kejun He](http://isbd.ruc.edu.cn/English/Faculty/903ebea1296641fa994559cb111766a1.htm). I earned my undergraduate degree in Science from the School of Mathematics and Statistics, Wuhan University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work on general methods for causal discovery, probabilistic graphical models, Bayesian statistics, and causal inference. My research interests also include developing statistical methods to solve problems in genetics and molecular biology.
