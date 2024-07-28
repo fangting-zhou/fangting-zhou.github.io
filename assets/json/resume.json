@@ -37,15 +37,25 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Methods",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Causal discovery",
+        "Probabilistic graphical models",
+        "Bayesian statistics",
+        "Causal inference"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Applications",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Genetics",
+        "Single-cell multi-omics",
+        "Microbiome multi-omics",
+        "Psychology"
       ]
     }
   ]
