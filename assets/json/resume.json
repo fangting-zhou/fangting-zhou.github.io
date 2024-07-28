@@ -39,12 +39,12 @@
     {
       "name": "Methods",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Causal discovery","Probabilistic graphical models","Bayesian statistics","Causal inference"]
+      "keywords": ["Causal discovery", "Probabilistic graphical models", "Bayesian statistics", "Causal inference"]
     },
     {
       "name": "Applications",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Genetics","Single-cell multi-omics","Microbiome multi-omics","Psychology"]
+      "keywords": ["Genetics", "Single-cell multi-omics", "Microbiome multi-omics", "Psychology"]
     }
   ]
 }
