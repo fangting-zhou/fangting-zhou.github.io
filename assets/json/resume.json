@@ -7,7 +7,8 @@
     {
       "name": "Department of Biostatistics, Yale University",
       "position": "Postdoctoral Associate",
-      "summary": "2022-Present",
+      "startDate": "2022",
+      "endDate": "",
       "url": "https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/"
     }
   ],
@@ -15,19 +16,22 @@
     {
       "institution": "Department of Statistics, Texas A&M University",
       "studyType": "Doctor of Philosophy",
-      "summary": "2017-2022",
+      "startDate": "2017",
+      "endDate": "2022",
       "url": "https://stat.tamu.edu/"
     },
     {
       "institution": "Institute of Statistics and Big Data, Renmin University of China",
       "studyType": "Doctor of Philosophy",
-      "summary": "2017-2022",
+      "startDate": "2017",
+      "endDate": "2022",
       "url": "http://isbd.ruc.edu.cn/English/index.htm"
     },
     {
       "institution": "School of Mathematics and Statistics, Wuhan University",
       "studyType": "Bachelor of Science",
-      "summary": "2013-2017"
+      "startDate": "2013",
+      "endDate": "2017",
     }
   ],
   "interests": [
