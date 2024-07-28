@@ -2,7 +2,7 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Associate at [Zhao Lab](https://zhaocenter.org/)
 
 profile:
   align: right
