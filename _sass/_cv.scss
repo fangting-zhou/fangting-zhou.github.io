@@ -169,8 +169,8 @@ ul.timeline li {
 }
 
 span.badge-toc {
-  color: #{$black-color-dark};
-  background-color: #{$white-color};
+  color: var(--global-text-color);
+  background-color: transparent;
   border-radius: 0.125rem;
   padding: 0.125rem 0.5rem 0.125rem 0.5rem;
   font-weight: 700 !important;
