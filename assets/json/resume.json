@@ -1,8 +1,7 @@
 {
   "basics": {
     "name": "Fangting Zhou",
-    "label": "Postdoctoral Associate",
-    "location": "300 George Street, New Haven, CT 06511"
+    "label": "Postdoctoral Associate"
   },
   "work": [
     {
@@ -16,23 +15,20 @@
     {
       "institution": "Department of Statistics, Texas A&M University",
       "location": "College Station, TX",
-      "studyType": "PhD",
-      "startDate": "2017-09-01",
-      "endDate": "2022-09-01"
+      "studyType": "Doctor of Philosophy",
+      "summary": "2017-2022"
     },
     {
       "institution": "Institute of Statistics and Big Data, Renmin University of China",
       "location": "Beijing, China",
-      "studyType": "PhD",
-      "startDate": "2017-09-01",
-      "endDate": "2022-09-01"
+      "studyType": "Doctor of Philosophy",
+      "summary": "2017-2022"
     },
     {
       "institution": "School of Mathematics and Statistics, Wuhan University",
       "location": "Wuhan, China",
-      "studyType": "BS",
-      "startDate": "2013-09-01",
-      "endDate": "2017-09-01"
+      "studyType": "Bachelor of Science",
+      "summary": "2013-2017"
     }
   ],
   "interests": [
