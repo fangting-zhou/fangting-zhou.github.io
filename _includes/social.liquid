@@ -2,7 +2,7 @@
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
 {% if site.cv %}
-  <a href="/assets/pdf/cv.pdf" title="CV"><i class="ai ai-cv"></i></a>
+  <a href="/assets/pdf/{{site.cv}}" title="CV"><i class="ai ai-cv"></i></a>
 {% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
