@@ -2,7 +2,7 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: Postdoctoral Associate. <a href='https://zhaocenter.org/'>Zhao Lab</a>.
+subtitle: Postdoctoral Associate at <a href='https://zhaocenter.org/'>Zhao Lab</a>. Department of Biostatistics, Yale University.
 
 profile:
   align: right
