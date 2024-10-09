@@ -19,3 +19,5 @@ I am a Postdoctoral Associate in the Department of Biostatistics at Yale Univers
 
 I work on general methods related to graphical models, causal discovery, causal inference, and Bayesian statistics. My research interests also include developing statistical methods to solve problems in genomics, neuroscience, and precision medicine.
 
+Last update: October 2024
+
