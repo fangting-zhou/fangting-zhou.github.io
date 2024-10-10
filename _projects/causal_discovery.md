@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Causal structure learning
-description: Models and assumptions
+title: Causal discovery
+description: Model and assumption
 img:
 importance: 2
 category: work
