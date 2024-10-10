@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Causal discovery
-description: Model and assumption
+title: Causal structure learning
+description: Models and assumptions
 img:
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
