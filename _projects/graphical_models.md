@@ -14,4 +14,7 @@ Maximal ancestral graphs are projections of directed mixed graphs that preserve 
 
 Maximal arid graphs are also projections of directed mixed graphs, but they capture a broader class of equality constraints, including Verma constraints. This class of graphs is relatively new to the community, making it important to understand their nested Markov properties and develop scalable algorithms for structure learning.
 
+The presence of cycles further complicates both learning and interpreting the system, necessitating advanced mathematical frameworks to accurately characterize cyclic systems. Besides, due to their complexities, statistical guarantees for related inference procedures are lacking.
+
+
 
