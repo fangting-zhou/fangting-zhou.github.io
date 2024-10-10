@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Graphical models
-description: Latent variables and cycles
+title: Graphical model
+description: Latent variable and cycle
 img:
 importance: 1
 category: work
