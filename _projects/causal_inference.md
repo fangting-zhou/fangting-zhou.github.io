@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Causal inference in genomics
-description:
+title: Causal inference
+description: Application in genomic studies
 img:
 importance: 3
 category: work
