@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Causal inference
-description: Application in genomic studies
+description: With applications in genomics and neuroscience
 img:
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
